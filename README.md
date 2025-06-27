@@ -65,10 +65,10 @@ ai-animated-portfolio/
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information. (Note: A `LICENSE` file is not included in this generation, but you may want to add one.)
+Distributed under the MIT License. See `LICENSE` for more information. 
 
 ## Contact
 
-Karthik - karthiky2410@gmail.com - https://www.linkedin.com/in/karthik-b-t-b22511283/
+Karthik - karthiky2410@gmail.com -  https://www.linkedin.com/in/karthik-b-t-b22511283/
 
 Project Link: [https://github.com/Karthik-banglore/ai-animated-portfolio](https://github.com/Karthik-banglore/ai-animated-portfolio)
